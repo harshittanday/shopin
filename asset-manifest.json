@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/harshittanday/shopin/static/js/main.921c8d82.chunk.js",
+    "main.js.map": "/harshittanday/shopin/static/js/main.921c8d82.chunk.js.map",
+    "runtime-main.js": "/harshittanday/shopin/static/js/runtime-main.743020bc.js",
+    "runtime-main.js.map": "/harshittanday/shopin/static/js/runtime-main.743020bc.js.map",
+    "static/js/2.4e43a74e.chunk.js": "/harshittanday/shopin/static/js/2.4e43a74e.chunk.js",
+    "static/js/2.4e43a74e.chunk.js.map": "/harshittanday/shopin/static/js/2.4e43a74e.chunk.js.map",
+    "index.html": "/harshittanday/shopin/index.html",
+    "static/js/2.4e43a74e.chunk.js.LICENSE.txt": "/harshittanday/shopin/static/js/2.4e43a74e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.743020bc.js",
+    "static/js/2.4e43a74e.chunk.js",
+    "static/js/main.921c8d82.chunk.js"
+  ]
+}
